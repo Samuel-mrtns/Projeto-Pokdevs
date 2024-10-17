@@ -1,6 +1,8 @@
 # 🕹️ **Pokédevs**
 Projeto desenvolvido no evento "Semana do Zero ao Programador Contratado", realizado pelos gêmeos Dev em Dobro. Durante as lives, a dupla montava o projeto em tempo real, enquanto os espectadores acompanhavam e replicavam o processo. O evento também contou com vídeos sobre a área de desenvolvimento web, além do apoio da organização no Discord, que ajudou os participantes com dúvidas e problemas no desenvolvimento do projeto.
-  
+
+![image](https://github.com/user-attachments/assets/60efa777-e273-4f9c-8bf6-004350e02902)
+
 ## 🚀 **Funcionalidades**
 - 🔄 Exibição dinâmica de cards
 - 🖱️ Navegação por clique e hover
